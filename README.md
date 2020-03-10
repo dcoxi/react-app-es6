@@ -1,2 +1,5 @@
-# react-app-es6
-Aplicação com o react usando o ES6
+
+
+Instalar 'npm install create-react-class --save' para uso de classes.
+
+usar comando webpack para subir a aplicação, ou webpack -w para subir a auto-reset.
